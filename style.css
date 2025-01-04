@@ -171,16 +171,20 @@ body {
 
 .facebook {
     width: 450px;
+    height: 500px;
     border: 1px solid #cdcaca;
     margin: 15px auto;
-    text-align: center;
+    /* text-align: center; */
     border-radius: 15px;
-    font-family: system-ui;
-    position: relative;
+    /* font-family: system-ui; */
+    /* position: relative;   */
+    background-color: white;
 }
 
 .facebook-header {
     position: relative;
+    padding: 10px;
+    /* background-color: white; */
 }
 
 .facebook-img{
